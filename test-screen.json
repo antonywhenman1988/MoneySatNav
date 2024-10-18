@@ -1,0 +1,56 @@
+[
+  {
+    "user": "A",
+    "departure": "dep",
+    "departure-time": "10:00",
+    "arrival": "arr",
+    "arrival-time": "16:30",
+    "train-id": "EZY8325",
+    "train-type": "local",
+    "journey-date": "15/02/2023",
+    "from": "Basingstoke",
+    "to": "London",
+    "departure-platform": "Plat. 3",
+    "arrival-platform": "Plat. 2",
+    "passenger-name": "James Brown",
+    "assign-to": "John Lennon",
+    "status": "Pending"
+  },
+
+
+  {
+    "user": "C",
+    "departure": "dep",
+    "departure-time": "08:30",
+    "arrival": "arr",
+    "arrival-time": "14:25",
+    "train-id": "EZY8325",
+    "train-type": "local",
+    "journey-date": "15/02/2023",
+    "from": "Wellingbrough",
+    "to": "Milton Keynes",
+    "departure-platform": "Plat. 1",
+    "arrival-platform": "Plat. 2",
+    "passenger-name": "Laura Dixon",
+    "assign-to": "Paul Mccartney",
+    "status": "Pending"
+  },
+
+  {
+    "user": "D",
+    "departure": "dep",
+    "departure-time": "09:00",
+    "arrival": "arr",
+    "arrival-time": "16:30",
+    "train-id": "EZY8325",
+    "train-type": "local",
+    "journey-date": "15/02/2023",
+    "from": "Liverpool",
+    "to": "Birmingham",
+    "departure-platform": "Plat. 5",
+    "arrival-platform": "Plat. 8",
+    "passenger-name": "Thomas Taylor",
+    "assign-to": "Afred Hitchcox",
+    "status": "Pending"
+  }
+]
